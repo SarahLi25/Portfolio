@@ -558,7 +558,7 @@ background-position: center;
 .overlap-check img{
   position: absolute;
   left: 55%;
-  top: 400%; /* This is a huge offset, consider better layout */
+  top: 320%; /* This is a huge offset, consider better layout */
   z-index: 10;
   width: 100%;
   max-width: 500px;
@@ -568,7 +568,7 @@ background-position: center;
 .overlap-pizza {
   position: absolute;
   left: 10%;
-  top: 415%;
+  top: 343%;
   width: 400px;
   z-index: 11;
 }

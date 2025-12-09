@@ -6,7 +6,7 @@ window.addEventListener('load', () => {
       if (aboutSection) {
         aboutSection.scrollIntoView({ behavior: 'smooth' });
       }
-    }, 3000); // 3000 ms = 3 seconds
+    }, 2500); // 3000 ms = 3 seconds
   });
 
 //fade in stars
